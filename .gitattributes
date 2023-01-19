@@ -1,0 +1,2 @@
+19.5.1/Amlogic-ce/arm/tools.dotnet-runtime/tools.dotnet-runtime-19.5.1.124.zip filter=lfs diff=lfs merge=lfs -text
+19.5/Amlogic-ce/arm/tools.dotnet-runtime/tools.dotnet-runtime-19.5.1.124.zip filter=lfs diff=lfs merge=lfs -text
